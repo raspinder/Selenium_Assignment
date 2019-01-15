@@ -8,4 +8,4 @@ TEST CASES:
 2) Second Test Case named GenralErrorMsg will test the scenario when the user have't filled all the required information before clicking the See Your Quote button.
 3) Third Test Case named FetchingTitleOfThePage fetches the title of the page and verifies it.
 
-1st two test cases are demonstrated in the video attached.
+First two test cases are demonstrated in the video attached.
