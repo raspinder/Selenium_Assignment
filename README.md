@@ -1,7 +1,7 @@
 # Selenium_Assignment
 
-TestNG Framework was followed. 
-Java language was used for writing test cases in Selenium.
+TestNG Framework is followed. 
+Java language is used for writing test cases in Selenium.
 
 TEST CASES:
 1) First Test Case named PositiveTestCase1 will test the positive scenario/happy path of the web page. Happy path is the path where all the required information is filled correctly.
