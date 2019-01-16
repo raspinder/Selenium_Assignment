@@ -12,13 +12,13 @@ System.setProperty("webdriver.chrome.driver", "C:\\Work\\ChromeDriver\\chromedri
 
 WebDriver driver = new ChromeDriver();
 driver.get("https://www.aaalife.com/term-life-insurance-quote-input");
-//Open Chrome browser with test URL
+//Open Chrome browser with test URL   
 
 driver.manage().window().maximize();
-//Maximize the window screen
+//Maximize the window screen  
 
 driver.findElement(By.id("seeQuote")).click();
-// Click See You Quote button
+// Click See You Quote button  
 
 String text = "Please complete/correct the required fields";
 //General Error message if information is not filled
